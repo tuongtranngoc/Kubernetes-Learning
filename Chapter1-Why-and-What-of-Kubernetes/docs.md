@@ -1,7 +1,7 @@
 ## Why and What's the Kubernetes?
 
 <p align='center'>
-<img src='/Chapter1-Why_and_What_of_Kubernetes/images/kub.png'>
+<img src='images/kub.png'>
 </p>
 
 
